@@ -1,7 +1,7 @@
 name: The Object Studio
 favicon: null
-layout_spectrum: 0.08787305769510567
-typography_spectrum: 0.6667034171987325
+layout_spectrum: 0.44722
+typography_spectrum: 0.73496
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6750897516030818
-  lightness: 0.9107736328151077
-  saturation: 0.6263382905162871
-  rhythmicContrast: 0.1366124984342605
+    - '#ffffff'
+    - '#706567'
+    - '#3f3e4d'
+    - '#a9a2ac'
+    - '#d9d6d8'
+  brandStrength: 0.75
+  lightness: 0.25
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
