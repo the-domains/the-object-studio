@@ -1,29 +1,18 @@
-name: The Object Studio
-favicon: null
-layout_spectrum: 0.44722
-typography_spectrum: 0.73496
-title: The Object Studio
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
+    - '#FFFFFF'
     - '#706567'
-    - '#3f3e4d'
-    - '#a9a2ac'
-    - '#d9d6d8'
+    - '#3F3E4D'
+    - '#A9A2AC'
+    - '#D9D6D8'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0.657094
+  rhythmicContrast: 0.192567
   saturation: 0.5
-  rhythmicContrast: 0.5
+cta: {}
+layout_spectrum: 0.44722
+name: The Object Studio
+opengraph: {}
 purpose: []
+typography_spectrum: 0.73496
